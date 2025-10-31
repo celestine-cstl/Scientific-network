@@ -1,4 +1,4 @@
-# Analyse de Réseau — Évolution d’un réseau scientifique
+# Analyse de Réseau - Évolution d’un réseau scientifique
 
 **Étude avant/après “traitement” : construction de graphes, mesures structurelles, distribution des degrés (log–log), attachement préférentiel, analyse par attributs (genre & statut core) et détection de communautés.** 
 
